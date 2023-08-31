@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+2022/
+raw_data/
+data/
+contexts/
+archive/
+.outpack/
+draft/
